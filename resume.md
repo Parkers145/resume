@@ -1,4 +1,5 @@
 # Drew Smith, A Leader for Communities Working Towards Decentralization 
+(note! The sections marked with triangles are expandable)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Drew, and I'm not your traditional Candidate for a role in tech and I think that is a great thing for both of us. I have spent the last 7 years working in healthcare as Paramedic/EMT. During that time I have gained invaluable and irreplaceable experience in not only interfacing with people from every background but training people to also have the ability to inteface with others themselves.
 
