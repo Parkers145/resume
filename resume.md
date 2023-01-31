@@ -1,8 +1,8 @@
 # Drew Smith, A Leader for Communities Working Towards Decentralization 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, Im Drew, and im not your traditional Candidate for a Role in Tech and I think that is a great thing for both of us. I have spent the last 7 years working in healthcare as Paramedic/EMT. During that time I have gained invaluable and irreplace experience in not only interfacing with people from every background but training people to have the ability to do so themselves.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Drew, and I'm not your traditional Candidate for a role in tech and I think that is a great thing for both of us. I have spent the last 7 years working in healthcare as Paramedic/EMT. During that time I have gained invaluable and irreplaceable experience in not only interfacing with people from every background but training people to also have the ability to inteface with others themselves.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout my Professional career I have always maintained a passion for technology and how it can help people to know more, do more, and be healthier. The growing centralization and censorship has lead me over the past year to become deeply involved in a project called [Threefold](https:\\threefold.io) where I have been functioning as a:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout my professional career I have always maintained a passion for technology and how it can help people to know more, do more, and be healthier. The growing centralization and abuse of people's data, has led me over the past year to become deeply involved in a project called [Threefold](https:\\threefold.io), where I have been functioning as a:
 
 **Documentation Writer**, 
 - Providing Tutorials in Video and Written Format on Topics Including,
@@ -52,9 +52,9 @@
 
 		<details>
 		&nbsp;
-    		<summary> Capturing Oppurtunity </summary>
+    		<summary>Capturing Opportunity</summary>
 		
-		Within just Days of the "Twitter Migration" and the invigorated interest in Mastodon I was able to publish tutorials on deploying Fediverse applications on the Grid and provide a live demo of them during a Community Call. 
+		Within just Days of the "Twitter Migration" and the invigorated interest in Mastodon I was able to publish tutorials on deploying Fediverse applications on the Threefold Grid and provide a live demo of them during a Community Call. 
 		- [The Community Call Demo](https://www.youtube.com/watch?v=tfBT0Ah5eFc&t=365s)
 		- [How to Deploy Mastodon on the Threefold Grid Today](https://forum.threefold.io/t/how-to-deploy-mastodon-on-the-threefold-grid-today/3487)
 		- [How to Deploy Peertube on the Threefold Grid Today](https://forum.threefold.io/t/how-to-deploy-peertube-on-the-threefold-grid-today/3489)
@@ -66,14 +66,14 @@
     	<details>
         	<summary>Project Mission</summary>
 			
-	This podcast capatilizes on the open source aspect of Threefold and allows community members from all over the world to come together and share ideas and how those ideas could be accomplished using the Threefold Grid
+	This podcast capatilizes on the open source aspect of Threefold and allows community members from all over the world to come together and share ideas and how those ideas can be accomplished using the Threefold Grid
 	</details>
 
 	<details>
     		<summary>Project Results</summary>
 
 	- Allows rapid assessment of community support needs overall status
-	- Provides regular oppurtunity to actively drive engagment 
+	- Provides regular opportunity to actively drive engagment 
 	- Generates large amount of content later usable in tutorials 
     </details>
 
@@ -90,10 +90,10 @@ In order to complete these tasks I have relied on my skillsets that include
 - Supporting users in the development of new ways to use a product
 - Driving decentralized development of technology
 - Production of written and video tutorials 
-- Managing Live Digital Presentations & Events
-- Training Users and Staff Members on Technolgies being developed. 
+- Managing live digital presentations & events
+- Training users and staff members on technolgies being developed. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In performing this work over the past year I have felt a renewed passion and satisfaction in doing so, This has allowed to accomplish these things while maintaining a full time job as paramedic with the minimal resource of just my laptop and grid deployments. In recent weeks I have been working on a project to deploy Umbrel on the Threefold Grid and discovered that you are currently hiring. It is with great excitement that I would like to submit my candidacy to you for your Community, Communications and Marketing position, or any postion that you feel I could contribute to the success of your project. Now that we know how I can contribute to the team lets tell you a little about me.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In performing this work over the past year I have felt a renewed passion and satisfaction in doing this type of work, this has allowed to accomplish these things while maintaining a full time job as paramedic with the minimal resource of just my laptop and Threefold Grid deployments. In recent weeks I have been working on a project to deploy Umbrel on the Threefold Grid and discovered that you are currently hiring. It is with great excitement that I would like to submit my candidacy to you for your Community, Communications and Marketing position, or any postion that you feel I could contribute to the success of your project. Now that we know how I can contribute to the team lets tell you a little about me.
 
 **Drew Smith, Nationally Registered Paramedic** 
 
@@ -140,7 +140,7 @@ In order to complete these tasks I have relied on my skillsets that include
 
 	- **PARAMEDIC| ACCESS URGENT CARE | OCT 2020- CURRENT |**
 		- Provide assessment, POC testing and treatment in an urgent care setting, while maintaining a positive customer
-		Centric environment within the clinic
+		centric environment within the clinic
 		- Manage employee on boarding and training
 		- Preform daily, weekly, and monthly lab compliance testing
 		- Manage “front desk operations” including patient registration, insurance verification, payments and scheduling.
@@ -161,7 +161,7 @@ In order to complete these tasks I have relied on my skillsets that include
 		- Honor Guard Member
 	
 	- **MILLWORKS DEPARTMENT SUPERVISOR | HOME DEPOT | JUN 2015- NOV 2016|**
-		- Lead a team of specialist who design and sell windows\doors to facilitate the construction or remodeling of both
+		- Led a team of specialists who design and sell windows\doors to facilitate the construction or remodeling of both
 		commercial and residential structures.
 		- Facilitate product knowledge, customer service and design systems training for both my associates and associates
 		throughout the store.
@@ -171,7 +171,7 @@ In order to complete these tasks I have relied on my skillsets that include
 	
 	- **ASSET PROTECTION AND OPERATIONS MANAGER | HOME DEPOT | MAY 2013 - JUN 2015 |**
 		- Managed the execution of the Home Depot’s asset protection and shrink reduction plans for the Colorado Springs
-		district, Develop and implement training programs related to shrink prevention and safety
+		district, developed and implemented training programs related to shrink prevention and safety
 		- Ensured store leadership teams were conducting all required training and development related to assets
 		protection/loss prevention
 		- Led a team of 4 Assets Protection Associates responsible for the Identification, Investigation and Resolution of theft
@@ -182,7 +182,7 @@ In order to complete these tasks I have relied on my skillsets that include
 		- Achieved a 1.2% overall reduction in shrink in the Colorado Springs District of The Home Depot.
 	
 	- **GUEST SERVICE TEAM LEADER | TARGET | JUN 2011 – MAY 2013|**
-		- Managed the front end operations of a target retail store including the registers, service desk and food service
+		- Managed the front end operations of a Target retail store including the registers, service desk and food service
 		areas
 		- Responsible for the training and development of approximately 30 employees.
 	
@@ -195,8 +195,4 @@ In order to complete these tasks I have relied on my skillsets that include
 - All teams should strive to always have open and clear communication  
 - Everyone should be able to contribute to a project in the way that maximizes their contribution with the lowest cost to their other needs. 
 
-I hope that you will find my skills and values align with yours in way that would allow me to contribute to your companys vision and succes, I look forward to hearing from you about how I can contribute! I do not currently work for The project I used in the demonstrations in this document, and they are not in a position to hire anyone, But the CEO and Founder, Kristof De Spiegeleer, supports me in my pursuit of joining your team, he can be reached on Telegram at https://t.me/despiegk, if a reference is needed.
-
-
-	
-
+I hope that you will find my skills and values align with yours in way that would allow me to contribute to your company's vision and success, I look forward to hearing from you about how I can contribute! I do not currently work for The Threefold project I used in the demonstrations in this document, and they are not in a position to hire anyone, but the CEO and Founder, Kristof De Spiegeleer, supports me in my pursuit of joining your team, he can be reached on Telegram at https://t.me/despiegk, if a reference is needed.
