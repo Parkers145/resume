@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Drew, and I'm not your traditional Candidate for a role in tech and I think that is a great thing for both of us. I have spent the last 7 years working in healthcare as Paramedic/EMT. During that time I have gained invaluable and irreplaceable experience in not only interfacing with people from every background but training people to also have the ability to inteface with others themselves.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout my professional career I have always maintained a passion for technology and how it can help people to know more, do more, and be healthier. The growing centralization and abuse of people's data, has led me over the past year to become deeply involved in a project called [Threefold](https:\\threefold.io), where I have been functioning as a:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout my professional career I have always maintained a passion for technology and how it can help people to know more, do more, and be healthier. The growing centralization and abuse of people's data, has led me over the past year to become deeply involved in a project called [Threefold](https://threefold.io), where I have been functioning as a:
 
 **Documentation Writer**, 
 - Providing Tutorials in Video and Written Format on Topics Including,
